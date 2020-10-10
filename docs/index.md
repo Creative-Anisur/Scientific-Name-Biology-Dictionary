@@ -8,7 +8,7 @@
 1. Download software
 2. login username and password (collect from text file)
 3. Upload, Edit, Delete Scientific name and click to search from wikipedea.
-link:
+link: https://github.com/Anisurrahmanlikohn/Scientific-Name-Biology-Dictionary/tree/main/docs
 
 
 ### Support or Contact
