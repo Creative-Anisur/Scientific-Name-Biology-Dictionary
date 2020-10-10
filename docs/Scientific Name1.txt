@@ -1,0 +1,12 @@
+To insert,updata,delete scientific name first login please.
+
+Username:Anisur
+Password:anisur355232
+
+You should use default login.Otherwise this software doen't work properly.
+The three files will be put in same location(folder) on drive.
+
+Please open the Scientific.jar file to continue.
+
+Example:
+C:\Users\MD. ANISUR RAHMAN\Desktop\Scientific Name 
